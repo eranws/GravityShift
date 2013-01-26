@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\CollisionScript.js">
+    <Files>
+      <File FileName="Assets\CameraMotion.cs" Line="25" Column="21" />
+      <File FileName="Assets\Blow.cs" Line="20" Column="4" />
+      <File FileName="Assets\MoveCube.js" Line="49" Column="1" />
+      <File FileName="Assets\Rotate.js" Line="15" Column="1" />
+      <File FileName="Assets\CollisionScript.js" Line="35" Column="130" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
