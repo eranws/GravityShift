@@ -44,9 +44,12 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\CameraMotion.js" />
      <Compile Include="Assets\CollisionScript.js" />
+     <Compile Include="Assets\Flicker.js" />
      <Compile Include="Assets\MoveCube.js" />
      <Compile Include="Assets\Rotate.js" />
+     <Compile Include="Assets\begin.js" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
